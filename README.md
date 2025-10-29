@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Name: Arijeet Mondal**
 - GitHub: [@arijeetcodes](https://github.com/arijeetcodes)
 - Twitter: [@ArijeetNit88073](https://twitter.com/ArijeetNit88073)
 
